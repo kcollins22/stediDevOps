@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "My app",
+    "slug": "my-app",
+    "extra": {
+      "eas": {
+        "projectId": "41e595e0-3343-403d-8065-98f6116701a8"
+      }
+    },
+    "android": {
+      "package": "com.kevindevops.b2022"
+    },
+    "ios": {
+      "bundleIdentifier": "com.kevindevops.b2022"
+    }
+  }
+}
